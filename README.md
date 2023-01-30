@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NielPeetersemPXL
-- 👀 I’m interested in programming
+- 👀 I’m interested in Java, JS, Angular & SQL development
 - 🌱 I’m currently learning applied information technology at Hogeschool PXL
-- 💞️ I’m looking to collaborate on backend development - java spring boot
 - 📫 You can reach me on both email addresses: niel.peetersem@gmail.com & niel.peetersem@student.pxl.be
